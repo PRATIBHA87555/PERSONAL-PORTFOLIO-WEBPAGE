@@ -10,3 +10,5 @@ Using only HTML and CSS, it provides a clean, visually appealing, and responsive
 HTML: Structure of the portfolio, including sections, images, and links.
 CSS: Styling, layout, responsive design, and hover effects.)
 #output <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/5a6ff87e-a0b8-4fcd-86eb-d57c8cb8dac0" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/d5770101-baf5-49ee-8b0b-f03eee14cafd" />
